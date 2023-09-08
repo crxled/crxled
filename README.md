@@ -1,5 +1,5 @@
 - 🔭 I’m currently working on Your Mother
-- Languages I code in JS, Swift, HTML, CSS
-- 🌱 I’m currently learning py, 
+- 👯 Languages I code in JS, Swift, HTML, CSS
+- 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate on FRZN
 - 😄 Pronouns: He/Him
